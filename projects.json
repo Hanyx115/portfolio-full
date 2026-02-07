@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ankh-Arena",
+    "category": "Full Stack Web",
+    "description": "A dynamic Fantasy Premier League replica. Features complex SQL schema design for player stats, a React.js frontend for team management, and a Node.js API for league logic.",
+    "techStack": ["React.js", "Node.js", "SQL", "CSS"],
+    "githubLink": "https://github.com/Hanyx115/Ankh-Arena-Simulation",
+    "demoLink": "#"
+  },
+  {
+    "title": "Paintly.io",
+    "category": "Real-Time App",
+    "description": "A collaborative drawing platform allowing multiple users to sketch simultaneously. Built with Socket.io for low-latency state synchronization and custom drawing algorithms.",
+    "techStack": ["Node.js", "Socket.io", "JavaScript", "HTML5 Canvas"],
+    "githubLink": "https://github.com/Hanyx115/PAINTLY.IO",
+    "demoLink": "#"
+  },
+  {
+    "title": "Rescue Dawn Drone",
+    "category": "Embedded Systems",
+    "description": "Award-winning autonomous drone for water rescue. Integrated MAX30205 thermal sensors with Arduino and a custom DAQ system to detect at-risk individuals.",
+    "techStack": ["Arduino", "C++", "Sensors", "Data Acquisition"],
+    "githubLink": "#",
+    "demoLink": "#"
+  }
+]
